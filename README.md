@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tbs912
+- 👋 Hi, I’m @tbs912 aka Travis Smith. Im a senior IT recruiter at DISYS.
 - 👀 I’m interested in finding exceptional talent in IT for the clients I work with.
 - 🌱 I’m currently learning basic coding.
 - 💞️ I’m looking to collaborate on job openings.
